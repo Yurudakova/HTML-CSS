@@ -16,7 +16,7 @@ body {
   animation: bounce 4s linear infinite;
   background-color: blueviolet;
 }
-/*ghk*/
+
 @keyframes bounce {
   0% {
     bottom: 100%;
